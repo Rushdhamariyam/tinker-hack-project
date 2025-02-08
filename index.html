@@ -3,23 +3,59 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Digital Card</title>
+    <title>Resume Builder</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <div class="card">
-        <img src="profile.jpg" alt="My Photo" class="profile-pic">
-        <h1>Your Name</h1>
-        <h2>Web Developer | Designer</h2>
-        <p>"Passionate about building creative and user-friendly experiences!"</p>
+    <div class="container">
+        <!-- Resume Preview -->
+        <div class="resume" id="resume">
+            <div class="header">
+                <div class="profile-container">
+                    <img id="profile-pic" src="default-profile.png" alt="Profile Picture">
+                </div>
+                <div class="info">
+                    <h1 id="display-name">Your Name</h1>
+                    <h3 id="display-title">Your Job Title</h3>
+                    <p id="display-email">your.email@example.com</p>
+                    <p id="display-phone">+1234567890</p>
+                    <p id="display-address">Your Address</p>
+                </div>
+            </div>
+            <hr class="separator">
+            <div class="content">
+                <h2>EXPERIENCE</h2>
+                <hr class="separator">
+                <p id="display-experience">Your Work Experience</p>
+                
+                <h2>EDUCATION</h2>
+                <hr class="separator">
+                <p id="display-education">Your Education Details</p>
 
-        <div class="links">
-            <a href="https://github.com/yourusername" target="_blank">GitHub</a>
-            <a href="https://linkedin.com/in/yourusername" target="_blank">LinkedIn</a>
-            <a href="mailto:yourname@email.com">Email</a>
+                <h2>SKILLS</h2>
+                <hr class="separator">
+                <p id="display-skills">HTML, CSS, JavaScript</p>
+            </div>
+            <button onclick="downloadResume()" class="download-btn">Download Resume</button>
         </div>
-        <p>kjb</p>
-        <button class="download-btn">Download Resume</button>
+
+        <!-- Resume Edit Form -->
+        <div class="form">
+            <h2>Edit Your Resume</h2>
+            <input type="file" id="profile-upload" accept="image/*">
+            <input type="text" id="name" placeholder="Enter your name">
+            <input type="text" id="title" placeholder="Enter your job title">
+            <input type="email" id="email" placeholder="Enter your email">
+            <input type="tel" id="phone" placeholder="Enter your phone number">
+            <input type="text" id="address" placeholder="Enter your address">
+            <textarea id="experience" placeholder="Enter your experience"></textarea>
+            <textarea id="education" placeholder="Enter your education"></textarea>
+            <input type="text" id="skills" placeholder="Enter your skills (comma separated)">
+            <button onclick="updateResume()">Update Resume</button>
+        </div>
     </div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
+    <script src="script.js"></script>
 </body>
 </html>
