@@ -95,9 +95,9 @@ For Hardware:
 [Add any extra demo materials/links]
 
 ## Team Contributions
- Rushdha Mariyam M: HTML
- Suhaila V M: JAVASCRIPT
- Diya Fathima: CSS
+ - Rushdha Mariyam M: HTML
+ - Suhaila V M: JAVASCRIPT
+ - Diya Fathima: CSS
 
 ---
 Made with ❤️ at TinkerHub
