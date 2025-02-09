@@ -1,33 +1,37 @@
-# [Project Name] 🎯
+# TINKER-HER-HACK 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [Tech titans]
 
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1: [Rushdha Mariyam M] - [SCMS School of engineering and technology]
+- Member 2: [Suhaila V A] - [SCMS School of engineering and technology]
+- Member 3: [Diya Fathima] - [SCMS School of engineering and technology]
 
 ### Hosted Project Link
-[mention your project hosted project link here]
+[https://tinker-hack-project.vercel.app/]
 
 ### Project Description
-[2-3 lines about what your project does]
+[The Dynamic Resume Builder is an interactive web application that allows users to create and download a professional, customizable resume in PDF format. Built using JavaScript, HTML, and CSS, this tool is designed to simplify the resume creation process by providing a user-friendly interface and dynamic features like adding profile images, bullet-point lists, and neatly formatted sections.]
 
 ### The Problem statement
-[What ridiculous problem are you solving?]
+[Job seekers often struggle to create a well-structured, professional, and ATS-friendly resume. Many resumes get rejected by Applicant Tracking Systems (ATS) due to poor formatting, incorrect keyword usage, or improper structure. Additionally, not everyone has the design skills or tools to craft a visually appealing and informative resume.
+
+]
 
 ### The Solution
-[How are you solving it? Keep it fun!]
+[To address the challenges job seekers face in creating a professional and ATS-friendly resume, the Resume Builder Web Application offers a user-friendly, automated solution that simplifies resume creation, formatting, and customization.
+
+]
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
+- [HTML ,CSS,JAVASCRIPT]
 - [Frameworks used]
-- [Libraries used]
+- [jsPDF]
 - [Tools used]
 
 For Hardware:
@@ -47,13 +51,13 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
+![https://drive.google.com/file/d/1gxIlN8v6Ci9hHS03hqAOAd-fWxoaBwuU/view?usp=drive_link]
 *Add caption explaining what this shows*
 
-![Screenshot2](Add screenshot 2 here with proper name)
+![https://drive.google.com/file/d/1abGkQf7SFtwvXqDRNmCGoOoxxRPC7ESo/view?usp=drive_link]
 *Add caption explaining what this shows*
 
-![Screenshot3](Add screenshot 3 here with proper name)
+![https://drive.google.com/file/d/1IcZI_bo0uZpwBGoYANnR0_ypB92MR51X/view?usp=drive_link]
 *Add caption explaining what this shows*
 
 # Diagrams
@@ -70,30 +74,30 @@ For Hardware:
 *Add caption explaining the schematic*
 
 # Build Photos
-![Team](Add photo of your team here)
+![https://drive.google.com/file/d/1DtlCEn1gC_fLfUPpBHvn_2LWW_X1FSl7/view?usp=drive_link](Add photo of your team here)
 
 
 ![Components](Add photo of your components here)
 *List out all components shown*
 
-![Build](Add photos of build process here)
+![https://drive.google.com/file/d/1abGkQf7SFtwvXqDRNmCGoOoxxRPC7ESo/view?usp=drive_link](Add photos of build process here)
 *Explain the build steps*
 
-![Final](Add photo of final product here)
+![https://drive.google.com/file/d/1IcZI_bo0uZpwBGoYANnR0_ypB92MR51X/view?usp=drive_link](Add photo of final product here)
 *Explain the final build*
 
 ### Project Demo
 # Video
-[Add your demo video link here]
+[https://drive.google.com/file/d/1gxIlN8v6Ci9hHS03hqAOAd-fWxoaBwuU/view?usp=drive_link]
 *Explain what the video demonstrates*
 
 # Additional Demos
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- [Rushdha Mariyam M]: [HTML]
+- [Suhaila V M]: [JAVASCRIPT]
+- [Diya Fathima]: [CSS]
 
 ---
 Made with ❤️ at TinkerHub
